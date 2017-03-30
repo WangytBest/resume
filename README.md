@@ -1,5 +1,7 @@
 # resume
 王玉涛简历
 
-#npm install
-#gulp
+<pre>
+  <code>#npm install</code>
+  <code>#gulp</code>
+</pre>
