@@ -196,7 +196,7 @@
       // scaling horizontally and scaling vertically
       var scaleHorizontally = distFromImageEdgeToWindowEdge.x / imgHalfWidth
       var scaleVertically = distFromImageEdgeToWindowEdge.y / imgHalfHeight
-      var scale = this._scaleBase + Math.min(scaleHorizontally, scaleVertically) - 1
+      var scale = this._scaleBase + Math.min(scaleHorizontally, scaleVertically) - 2
 
       // Translate the image to window center, then scale the image
       this._styles.image.transform =
