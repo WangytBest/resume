@@ -6,4 +6,4 @@
   <code>#gulp</code>
 </pre>
 
-[预览地址](https://wangdog.github.io/resume/)
+[预览地址](https://WangytBest.github.io/resume/)
